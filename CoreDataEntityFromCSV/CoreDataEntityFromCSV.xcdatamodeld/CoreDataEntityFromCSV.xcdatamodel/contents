@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<model userDefinedModelVersionIdentifier="" sourceLanguage="Swift" documentVersion="1.0" systemVersion="16G29" minimumToolsVersion="Automatic" type="com.apple.IDECoreDataModeler.DataModel" lastSavedToolsVersion="13772">
+    <entity name="Merchant_Tags_Master" representedClassName="Merchant_Tags_Master" codeGenerationType="class" syncable="YES">
+        <attribute optional="YES" name="id" attributeType="Integer 16" syncable="YES" />
+        <attribute optional="YES" name="name" attributeType="String" syncable="YES" />
+        <attribute optional="YES" name="is_active" attributeType="Integer 16" syncable="YES" />
+    </entity>
+    <entity name="Activity_master" representedClassName="Activity_master" codeGenerationType="class" syncable="YES">
+        <attribute optional="YES" name="id" attributeType="Integer 16" syncable="YES" />
+        <attribute optional="YES" name="activity_name" attributeType="String" syncable="YES" />
+    </entity>
+    <elements>
+        <element name="Merchant_Tags_Master" positionY="27" positionX="-18" height="90" width="128" />
+        <element name="Activity_master" positionY="27" positionX="-18" height="90" width="128" />
+    </elements>
+</model>

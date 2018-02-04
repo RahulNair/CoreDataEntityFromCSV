@@ -1,0 +1,6 @@
+framework module Pods_CoreDataEntityFromCSV {
+  umbrella header "Pods-CoreDataEntityFromCSV-umbrella.h"
+
+  export *
+  module * { export * }
+}

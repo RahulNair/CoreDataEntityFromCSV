@@ -1,0 +1,6 @@
+MMerchant,id,1,int
+MMerchant,name,2,varchar
+MMerchant,is_active,3,tinyint
+activity_master,id,1,int
+activity_master,activity_name,2,varchar
+
